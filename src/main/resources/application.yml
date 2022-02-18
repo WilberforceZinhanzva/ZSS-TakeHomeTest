@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+gateways:
+  purchases:
+    token: "Bearer 9ca3d5ed-dc04-4700-8dd6-7d60c3cdf0fa"
